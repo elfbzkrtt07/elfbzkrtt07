@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding and improving myself
 - 🌱 I’m currently learning java
 - 📚 I'm currently a freshman studying computer science at Bilkent University.
-- 💞️ I’m looking to collaborate on basic projects to improve my skills.
+- 💻 I’m looking to collaborate on basic projects to improve my skills.
 - 📫 How to reach me elfbzkrtt07@gmail.com
 - 😄 Pronouns: she/her
 
